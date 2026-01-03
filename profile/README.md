@@ -70,7 +70,7 @@ Alka Savunma projeleri aşağıdaki prensiplerle geliştirilir:
 
 ---
 
-## 🤝 Katkı Verenler
+## 🤝 Ekip Üyelerimiz
 
 Bu organizasyon altında yürütülen projelere katkı sağlayan çekirdek ekip üyeleri:
 
@@ -124,6 +124,5 @@ Yetkisiz erişim tespitleri kayıt altına alınır.
 
 
 <!--
-Yazılımcı : Alperen ERKAN -> mr-alperen.github.io
-Admin : Ferhat Erkan -> BOSS
+🚀 🤖 
 -->
