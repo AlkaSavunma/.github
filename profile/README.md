@@ -82,8 +82,8 @@ Bu organizasyon altında yürütülen projelere katkı sağlayan çekirdek ekip 
          style="border-radius:999px;"
          alt="Mr-Alperen" />
   </a>
-  <a href="https://github.com/Ekobabapro" title="Ekobabapro">
-    <img src="https://github.com/Ekobabapro.png?size=90"
+  <a href="https://github.com/CenixTeam" title="CenixTeam">
+    <img src="https://github.com/CenixTeam.png?size=90"
          width="90"
          height="90"
          style="border-radius:999px;"
